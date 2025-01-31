@@ -8,228 +8,364 @@
     <link rel="icon" href="images/microsoft-logo.ico">
 </head>
 <body>
-    <header class="mainheader">
-        <div class="padding-margin">
-            <div class="mainheader-container">
-                <a href="#" id="micrologo" class="m-logo">
-                </a>
-                <div class="allAzure">
-                    <a href="#" id="azureLogo" class="a-logo"><span>Azure</span></a>
+    <div class="maincontainer">
+        <header class="mainheader">
+            <div class="padding-margin">
+                <div class="mainheader-container">
+                    <a href="#" id="micrologo" class="m-logo">
+                    </a>
+                    <div class="allAzure">
+                        <a href="#" id="azureLogo" class="a-logo"><span>Azure</span></a>
+                    </div>
+                    <nav id="listoffeature" class="feature">
+                        <ul class="list-items" id="list-first"></ul>
+                    </nav>
+                    <div class="search-action" id="search-action">
+                    <!-- <div class="left-menu">
+                            <nav id="microsoft-menu">
+                                <ul class="paddle-items">
+                                    <li class="left-menu-item">
+                                        <a href="" id="l-shellmenu" class="left-nav-link">Learn</a>
+                                    </li>
+                                    <li class="left-menu-item">
+                                        <a href="" id="l-shellmenu" class="left-nav-link">Support</a>
+                                    </li>
+                                    <li class="left-menu-item">
+                                        <a href="" id="l-shellmenu" class="left-nav-link">Contact Sales</a>
+                                    </li>
+                                    <li class="left-menu-button">
+                                        <a href="" id="l-shellmenu-button" class="left-nav-link btn--primary">Get started with Azure</a>
+                                    </li>
+                                    <li class="left-menu-button">
+                                        <a href="" id="l-shellmenu-button" class="left-nav-link btn--secondary">Sign  in</a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>-->
+                    </div>
                 </div>
-                <nav id="listoffeature" class="feature">
-                    <ul class="list-items" id="list-first"></ul>
-                </nav>
-                <div class="search-action" id="search-action">
-                   <!-- <div class="left-menu">
-                        <nav id="microsoft-menu">
-                            <ul class="paddle-items">
-                                <li class="left-menu-item">
-                                    <a href="" id="l-shellmenu" class="left-nav-link">Learn</a>
+            </div>
+        </header>
+        <div class="layout-container">
+            <div class="section-master theme-night hero-silm">
+                <div class="section-master__image" id="section-master__image"></div>
+                <div class="container" id="container1"></div>
+            </div>
+            <div class="secondary-sticky-nav" id="secondary-sticky-nav">
+                <div class="sticky sticky-direction-top" id="sticky"></div>
+                <div class="scrollspy-container">
+                    <div class="section-master theme-day">
+                        <div class="section-master__image" id="section-master__image1"></div>
+                        <div class="container" id="container1">
+                            <div class="row" id="row"></div>
+                            <div class="row section-master__slot" id="slot"></div>
+                        </div>
+                    </div>
+                    <div class="section-master theme-day">
+                        <div class="container">
+                            <div class="row" id="row-2"></div>
+                            <div class="row section-master__slot" id="slot-2"></div>
+                        </div>
+                    </div>
+                    <div class="section-master theme-day">
+                        <div class="container">
+                            <div class="row" id="row-3"></div>
+                            <div class="row section-master__slot" id="slot-3"></div>
+                        </div>
+                    </div>
+                    <div class="section-master theme-day">
+                        <div class="section-master__image" id="background"> </div>
+                        <div class="container" >
+                           <div class="row"></div>
+                           <div class="row section-master__slot" id="slot-4"></div>
+                        </div>
+                    </div>
+                    <div class="interactive-demo" id="interactive-demo"></div>
+                    <div class="section-master theme-day" id="section-master">
+                        <div class="section-master__image" id="section-master1"></div>
+                        <div class="container" id="container"></div>
+                        <div class="row section-master__slot"></div>
+                    </div>
+                    <div class="section-master theme-day">
+                        <div class="section-master__image" id="section2"></div>
+                        <div class="container">
+                            <div class="row" id="row-4"></div>
+                            <div class="row section-master__slot" id="slot-5"> </div>
+                        </div>
+                    </div>
+                    <div class="section-master theme-day">
+                        <div class="section-master__image" id="image_master"></div>
+                        <div class="container">
+                            <div class="row" id="row-5"> </div>
+                            <div class="row section-master__slot" id="slot-6"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="experiencefragment">
+                <div class="cmp-experiencefragment">
+                    <div class="xf-content-height">
+                        <div class="style">
+                            <div class="oc-utility">
+                                <div class="container mb-n5 py-4">
+                                    <div class="socialfollow">
+                                        <div class="col">
+                                            <div class="d-flex justify-content-between">
+                                                <div class="row">
+                                                    <div class="col-12 inline-flex flex-row py-2">
+                                                        <section class="links-group">
+                                                            <a href="" class="btn btn--primary-alt">
+                                                                <span>
+                                                                    <img src="images/a.svg" alt="">
+                                                                </span>
+                                                                Get the Azure mobile app
+                                                            </a>
+                                                        </section>
+                                                        <section class="ml-g">
+                                                            <ul class="list-inline d-inline-block">
+                                                                <l1 class="list-inline-item mr-g">
+                                                                    <a href="" class="d-inline-block">
+                                                                        <img src="images/x.webp" alt="">
+                                                                    </a>
+                                                                </l1>
+                                                                <l1 class="list-inline-item mr-g">
+                                                                    <a href="" class="d-inline-block">
+                                                                        <img src="images/x1.webp" alt="">
+                                                                    </a>
+                                                                </l1>
+                                                                <l1 class="list-inline-item mr-g">
+                                                                    <a href="" class="d-inline-block">
+                                                                        <img src="images/x2.webp" alt="">
+                                                                    </a>
+                                                                </l1>
+                                                                <l1 class="list-inline-item mr-g">
+                                                                    <a href="" class="d-inline-block">
+                                                                        <img src="images/x3.avif" alt="">
+                                                                    </a>
+                                                                </l1>
+                                                            </ul>
+                                                        </section>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+        </div>
+        <div class="universalfooter">
+            <footer class="c-uhff context-uhf">
+                <nav class="c-uhff-nav">
+                    <div class="c-uhff-nav-row">
+                        <div class="c-uhff-nav-group">
+                            <div class="c-heading-4">Explore Azure</div>
+                            <ul class="c-list f-bare">
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
                                 </li>
-                                <li class="left-menu-item">
-                                    <a href="" id="l-shellmenu" class="left-nav-link">Support</a>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
                                 </li>
-                                <li class="left-menu-item">
-                                    <a href="" id="l-shellmenu" class="left-nav-link">Contact Sales</a>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
                                 </li>
-                                <li class="left-menu-button">
-                                    <a href="" id="l-shellmenu-button" class="left-nav-link btn--primary">Get started with Azure</a>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
                                 </li>
-                                <li class="left-menu-button">
-                                    <a href="" id="l-shellmenu-button" class="left-nav-link btn--secondary">Sign  in</a>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
                                 </li>
                             </ul>
-                        </nav>
-                    </div>-->
-                </div>
-            </div>
-        </div>
-    </header>
-    <div class="layout-container">
-        <div class="section-master theme-night hero-silm">
-            <div class="section-master__image" id="section-master__image"></div>
-            <div class="container" id="container1"></div>
-        </div>
-        <div class="secondary-sticky-nav" id="secondary-sticky-nav">
-            <div class="sticky sticky-direction-top" id="sticky"></div>
-            <div class="scrollspy-container">
-                <div class="section-master theme-day">
-                    <div class="section-master__image" id="section-master__image1"></div>
-                    <div class="container" id="container1">
-                        <div class="row" id="row"></div>
-                        <div class="row section-master__slot" id="slot"></div>
-                    </div>
-                </div>
-                <div class="section-master theme-day">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col">
-                                <div class="layout section-master__layout">
-                                    <div class="layout__col">
-                                        <div class="section-master__layout-header">
-                                            <div class="block-heading animation animation--effect-2-scroll block-heading--size-m effect-on">
-                                                <div class="fg--neutral-highlight block-heading__eyebrow">
-                                                    <div >Solutions</div>
-                                                </div>
-                                                <div class="block-heading__title">
-                                                    <div>
-                                                        <h2>find solutions for putting your ideas into action</h2>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
-                        <div class="row section-master__slot">
-                            <div class="col">
-                                <div class="tabs-pill-bar tabs animation animation--effect-2-scroll">
-                                    <div class="cmp-tabs d-contents">
-                                        <div class="pill-bar">
-                                            <div class="col">
-                                                <div class="tab-overflow">
-                                                    <div class="tab-window">
-                                                        <div class="tab-group">
-                                                            <button id="pill-bar-solution_tab0-tab" class="pill-bar__item active">
-                                                                <span class="pill-bar__item__label">Featured solutions</span>
-                                                            </button>
-                                                            <button id="pill-bar-solution_tab0-tab" class="pill-bar__item">
-                                                                <span class="pill-bar__item__label">Featured solutions</span>
-                                                            </button>
-                                                            <button id="pill-bar-solution_tab0-tab" class="pill-bar__item">
-                                                                <span class="pill-bar__item__label">Featured solutions</span>
-                                                            </button>
-                                                            <button id="pill-bar-solution_tab0-tab" class="pill-bar__item">
-                                                                <span class="pill-bar__item__label">Featured solutions</span>
-                                                            </button>
-                                                            <button id="pill-bar-solution_tab0-tab" class="pill-bar__item">
-                                                                <span class="pill-bar__item__label">Featured solutions</span>
-                                                            </button>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="row">
-                                            <div class="col">
-                                                <div class="tab-panel-group">
-                                                    <div class="tab-panel">
-                                                        <div>
-                                                            <div class="accordion animation">
-                                                                <div class="ocr-accordion accordion-verical">
-                                                                    <div class="height">
-                                                                        <ul class="accordion">
-                                                                            <li class="ocr-accordion-item">
-                                                                                <span class="indicator indicator--shape-pill"></span>
-                                                                                <div class="ocr-accordion-item__content">
-                                                                                    <div class="button-group button-group--stacked">
-                                                                                        <button class="ocr-accordion-item__header btn-collapse">
-                                                                                            <h3 class="h5">
-                                                                                                <div>AI</div>
-                                                                                            </h3>
-                                                                                        </button>
-                                                                                    </div>
-                                                                                    <div class="collapse">
-                                                                                        <div class="ocr-accordion-item__body">
-                                                                                            <div>
-                                                                                                <div>Build intelligent apps at enterprise scale with the Azure AI portfolio</div>
-                                                                                            </div>
-                                                                                            <div>
-                                                                                                <div class="action d-contents">
-                                                                                                    <a href="" class="link link-inline">
-                                                                                                        <span class="link__text">Explore Azure AI solutions</span>
-                                                                                                    </a>
-                                                                                                </div>
-                                                                                                <div class="media media--pos-middle-middle">
-                                                                                                    <div class="ocr-img media__asset rounded-1">
-                                                                                                        <picture>
-                                                                                                            <img src="images/media__slot.avif" alt="">
-                                                                                                        </picture>
-                                                                                                    </div>
-                                                                                                    <div class="media__slot">
-                                                                                                        <div class="action d-contents">
-                                                                                                            <a href="" class="btn btn--icon btn--icon-only">
-                                                                                                                <div class="ocr-icon d-inline-flex">
-                                                                                                                    <span class="glyph-prepend glyph-prepend-play-solid"></span>
-                                                                                                                </div>
-                                                                                                            </a>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </li>
-                                                                            <li class="ocr-accordion-item">
-                                                                                <span class="indicator indicator--shape-pill"></span>
-                                                                                <div class="ocr-accordion-item__content">
-                                                                                    <button class="ocr-accordion-item__header btn-collapse padding">
-                                                                                        <h3 class="h5">
-                                                                                            <div>An adaptive cloud</div>
-                                                                                        </h3>
-                                                                                    </button>
-                                                                                </div>
-                                                                            </li>
-                                                                             <li class="ocr-accordion-item">
-                                                                                <span class="indicator indicator--shape-pill"></span>
-                                                                                <div class="ocr-accordion-item__content">
-                                                                                    <button class="ocr-accordion-item__header btn-collapse padding">
-                                                                                        <h3 class="h5">
-                                                                                            <div>An adaptive cloud</div>
-                                                                                        </h3>
-                                                                                    </button>
-                                                                                </div>
-                                                                            </li>
-                                                                             <li class="ocr-accordion-item">
-                                                                                <span class="indicator indicator--shape-pill"></span>
-                                                                                <div class="ocr-accordion-item__content">
-                                                                                    <button class="ocr-accordion-item__header btn-collapse padding">
-                                                                                        <h3 class="h5">
-                                                                                            <div>An adaptive cloud</div>
-                                                                                        </h3>
-                                                                                    </button>
-                                                                                </div>
-                                                                            </li>
-                                                                            <li class="ocr-accordion-item">
-                                                                                <span class="indicator indicator--shape-pill"></span>
-                                                                                <div class="ocr-accordion-item__content">
-                                                                                    <button class="ocr-accordion-item__header btn-collapse padding">
-                                                                                        <h3 class="h5">
-                                                                                            <div>An adaptive cloud</div>
-                                                                                        </h3>
-                                                                                    </button>
-                                                                                </div>
-                                                                            </li>
-                                                                        </ul>
-                                                                    </div>    
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="action d-contents"></div>
-                            </div>
+                        <div class="c-uhff-nav-group">
+                            <div class="c-heading-4">Explore Azure</div>
+                            <ul class="c-list f-bare">
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="c-uhff-nav-group">
+                            <div class="c-heading-4">Explore Azure</div>
+                            <ul class="c-list f-bare">
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
+                    <div class="c-uhff-nav-row">
+                        <div class="c-uhff-nav-group">
+                            <div class="c-heading-4">Explore Azure</div>
+                            <ul class="c-list f-bare">
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="c-uhff-nav-group">
+                            <div class="c-heading-4">Explore Azure</div>
+                            <ul class="c-list f-bare">
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="c-uhff-nav-group">
+                            <div class="c-heading-4">Explore Azure</div>
+                            <ul class="c-list f-bare">
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                                <li>
+                                    <a href="" class="c-uhff-link">What is Azure?</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+                <div class="c-uhff-base">
+                    <a href="" class="c-uhff-link eng">English (India)</a>
+                    <a href="" class="c-uhff-link">
+                        <span>Your Privacy Choices</span>
+                    </a>
+                    <a href="" class="c-uhff-link">
+                        <span>Consumer Health Privacy</span>
+                    </a>
+                    <nav>
+                        <ul class="c-list f-bare">
+                            <li class="c-uhff-footer_contactus">
+                                <a href="" class="c-uhff-link">Contact Microsoft</a>
+                            </li>
+                            <li id="c-uhff-footer_privacyandcookies">
+                                <a href="" class="c-uhff-link">Privacy</a>
+                            </li>
+                            <li class="x-hidden" id="c-uhff-footer_managecookies">
+                                <a href="" class="c-uhff-link">Manage cookies</a>
+                            </li>
+                            <li class="c-uhff-footer_termsofuse">
+                                <a href="" class="c-uhff-link">Terms of use</a>
+                            </li>
+                            <li id="c-uhff-footer_trademarks">
+                                <a href="" class="c-uhff-link">Trademarks</a>
+                            </li>
+                            <li id="c-uhff-footer_aboutourads">
+                                <a href="" class="c-uhff-link">About our ads</a>
+                            </li>
+                            <li>© Microsoft 2025</li>
+                        </ul>
+                    </nav>
                 </div>
-                <div class="section-master theme-day"></div>
-                <div class="section-master theme-day"></div>
-                <div class="section-master theme-day"></div>
-                <div class="section-master theme-day"></div>
-                <div class="section-master theme-day"></div>
-                <div class="section-master theme-day"></div>
-            </div>
+            </footer>
         </div>
     </div>
     <script type="module" src="script.js"></script>
     <script type="module" src="header.js"></script>
     <script type="module" src="container1.js"></script>
     <script type="module" src="container2.js"></script>
+    <script type="module" src="container3.js"></script>
+    <script type="module" src="container4.js"></script>
+    <script type="module" src="container5.js"></script>
+    <script type="module" src="container6.js"></script>
+    <script type="module" src="container7.js"></script>
+    <script type="module" src="container8.js"></script>
 </body>
 </html>
+

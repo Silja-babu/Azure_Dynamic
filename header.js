@@ -26,26 +26,42 @@ export function head(data){
             div.appendChild(menubutton)
             nestedmenu.appendChild(div)
             document.getElementById("list-first").appendChild(nestedmenu)
-            menubutton.addEventListener('click', () => {
-
-                //console.log(`${item} is clicked`);
-                let existing = menubutton.querySelector('.boxCreate')
-                
-                if(!existing){
-                    const boxCreate = document.createElement("ul")
-                    const boxliCreate = document.createElement('li')
-                    boxCreate.classList.add("boxCreate")
-                    boxCreate.classList.add("boxliCreate")
-                    boxCreate.appendChild(boxliCreate)
-                    menubutton.appendChild(boxCreate)
-                    boxliCreate.textContent=`${data.head.Products[idx]}`
-                }
-                existing.classList.toggle('hidden')
-
-            });           
+            menubutton.addEventListener('click',()=>{
+                console.log(`${item} is clicked`);
+                    const exist = menubutton.querySelector('.f-multi-column')
+                    if(exist){
+                        menubutton.removeChild(exist)
+                        menubutton.classList.remove('unset')
+    
+                    }else{
+                        const multiul = document.createElement('ul')
+                        multiul.classList.add('f-multi-column')
+                        menubutton.appendChild(multiul)
+                        console.log(menubutton)
+                        menubutton.classList.add('unset')
+                        const productlist = data.head.Products
+                        productlist.forEach(mainitems=>{
+                            mainitems.forEach((subitem,idx)=>{
+                                const jsNav = document.createElement('li')
+                                jsNav.classList.add("js-nav-menu")
+                                multiul.appendChild(jsNav)
+                                subitem.forEach(items=>{
+                                    const lispan = document.createElement('span')
+                                    lispan.classList.add('uhf-nav-span')
+                                    lispan.textContent=items
+                                    jsNav.appendChild(lispan)
+                                })
+                            
+                        })
+                        
+                        })  
+                            
+                    }
+            })
+                    
         })
        
-
+        
         const formAction = document.createElement('form')
         formAction.classList.add("c-search")
         formAction.id="searchForm"
@@ -90,3 +106,38 @@ export function head(data){
         document.getElementById("search-action").appendChild(learnDiv)
     }
 
+
+
+    /**
+     * data.head.Products.forEach(mainitems=>{
+                menubutton.addEventListener('click', () => {
+
+                console.log(`${item} is clicked`);
+                const exist = menubutton.querySelector('.f-multi-column')
+                if(exist){
+                    menubutton.removeChild(exist)
+                    menubutton.classList.remove('unset')
+
+                }else{
+                    const multicolum = document.createElement('ul')
+                    multicolum.classList.add('f-multi-column')
+                    menubutton.appendChild(multicolum)
+                    menubutton.classList.add('unset')
+                    multicolum.innerHTML=''
+                    data.head.Products.forEach((subitem,idx)=>{
+                        const jsNav = document.createElement('li')
+                        jsNav.classList.add("js-nav-menu")
+                        multicolum.appendChild(jsNav)
+                        subitem.forEach(items=>{
+                            const lispan = document.createElement('span')
+                            lispan.classList.add('uhf-nav-span')
+                            lispan.textContent=items
+                            jsNav.appendChild(lispan)
+                        })
+                    
+                })
+                }
+
+            });
+            })  
+     */

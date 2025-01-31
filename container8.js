@@ -1,0 +1,62 @@
+export function container8(data){
+    const ocrIMage = document.createElement("div")
+    ocrIMage.classList.add('ocr-img','media__asset')
+    const image = document.createElement('img')
+    image.src=data.global.image
+    ocrIMage.appendChild(image)
+    document.getElementById('section-master1').appendChild(ocrIMage)
+    //console.log(ocrIMage)
+
+    const rowEl = document.createElement('div')
+    rowEl.classList.add('row')
+    const colEl = document.createElement('div')
+    colEl.classList.add('col')
+    const layout = document.createElement('div')
+    layout.classList.add('layout','section-master__layout','section2')
+    const layoutCol = document.createElement('div')
+    layoutCol.classList.add('layout__col')
+    const layoutHeader = document.createElement('div')
+    layoutHeader.classList.add('section-master__layout-header')
+    const BLockheading = document.createElement('div')
+    BLockheading.classList.add('block-heading')
+    
+    document.getElementById('container').appendChild(rowEl)
+    rowEl.appendChild(colEl)
+    colEl.appendChild(layout)
+    layout.appendChild(layoutCol)
+    layoutCol.appendChild(layoutHeader)
+    layoutHeader.appendChild(BLockheading)
+    
+    const blockHeadingTitle = document.createElement('div')
+    blockHeadingTitle.classList.add('block-heading__title')
+    BLockheading.appendChild(blockHeadingTitle)
+    const div = document.createElement('div')
+    const h2 = document.createElement('h2')
+    const spanD = document.createElement('span')
+    spanD.classList.add('d-block','h1')
+    spanD.textContent= data.global.head
+    blockHeadingTitle.appendChild(div)
+    div.appendChild(h2)
+    h2.appendChild(spanD)
+
+    const blockPara = document.createElement('div')
+    blockPara.classList.add('block-heading__paragraph')
+    BLockheading.appendChild(blockPara)
+    const div2 = document.createElement('div')
+    div2.textContent=data.global.para
+    blockPara.appendChild(div2)
+
+    const blockBUtton = document.createElement('div')
+    blockBUtton.classList.add('block-heading__button-group')
+    BLockheading.appendChild(blockBUtton)
+    const buttonGRoup = document.createElement('div')
+    buttonGRoup.classList.add('button-group')
+    const btn = document.createElement('a')
+    btn.classList.add('btn')
+    const btnText = document.createElement('span')
+    btnText.classList.add('btn__text')
+    btnText.textContent=data.global.btn
+    blockBUtton.appendChild(buttonGRoup)
+    buttonGRoup.appendChild(btn)
+    btn.appendChild(btnText)
+}

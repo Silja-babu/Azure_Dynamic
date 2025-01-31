@@ -11,193 +11,195 @@
         ],
         "Products":[
             [
-            [
-                "Popular",
-                "Azure Virtual Machine",
-                "Azure Virtual Desktop",
-                "Azure DevOps",
-                "Azure SQL",
-                "Azure AI Services",
-                "Azure AI Foundry",
-                "Azure AI Content Safety",
-                "Azrue AI Content Safety",
-                "Azure Kubernetes Service(AKS)",
-                "Azure Arc",
-                "Azure Local"
-            ],
-            [
-                "AI + machine learning",
-                "Azure Ai Service",
-                "Azure AI OpenAI Service",
-                "Azure AI Language",
-                "Azure AI Foundry",
-                "Azure AI Vision",
-                "Azure AI Search",
-                "Azure Databricks",
-                "MIcrosoft Copilot in Azure PREVIEW"
-            ],
-            [
-                "Compute",
-                "Azure Virtual Machines",
-                "Azure Kubernetes Service(AKS)",
-                "Linux virtual machines in Azure",
-                "SQL Server on Azure Virtual Machines",
-                "Windows Server",
-                "Azrue Functions",
-                "Azure Virtual Machine Scale Sets",
-                "Azure SPot Virtual Machines",
-                "Azure Container Apps",
-                "Azure Compute Fleet"
-            ],
-            [
-                "Containers",
-                "Azure Kubernetes Services (AKS)",
-                "Azure App Service",
-                "Azure Container Instances",
-                "Azure Spring Apps",
-                "Azure Red Hat OpenShift",
-                "Azure Kubernetes Fleet Manager PREVIEW",
-                "Azure Container Registry",
-                "App Configuration"
-            ],
-            [
-                "Hybrid + multicloud",
-                "Azure DevOps",
-                "AAzure SQL",
-                "Azure Arc",
-                "Azure Local",
-                "Azure Database for PostgresSQL",
-                "Microsoft Defender for Cloud",
-                "Azure IoT Edge",
-                "Azure Montitor",
-                "Microsoft Sentinel"
-            ],
-            [
-                "Analytics",
-                "Azure Synapse Analytics",
-                "Azure Databricks",
-                "MIcrosoft Purview",
-                "Azure Data Factory",
-                "Azure Machine Learning",
-                "MIcrosoft Fabric",
-                "HDInsight",
-                "Azure Data Explorer",
-                "Azure Data Lake Storage",
-                "Azure Operator Insights"
-            ]
-
-            ],
-            [
                 [
-                    "Featured",
-                    "Azure AI",
-                    "Migrate to innovate in the era of AI",
-                    "Bulid and modernize intelligent apps",
-                    "Data Analytics for AI",
-                    "Azure AI Infrastructure",
-                    "Adaptive cloud",
-                    "Azure network security",
-                    "SAP on the Microsoft Cloud"
+                    "View all products (200+)",
+                    "Popular",
+                    "Azure Virtual Machine",
+                    "Azure Virtual Desktop",
+                    "Azure DevOps",
+                    "Azure SQL",
+                    "Azure AI Services",
+                    "Azure AI Foundry",
+                    "Azure AI Content Safety",
+                    "Azrue AI Content Safety",
+                    "Azure Kubernetes Service(AKS)",
+                    "Azure Arc",
+                    "Azure Local"
                 ],
                 [
-                    "AI",
-                    "Azure AI",
-                    "Responsible AI with Azure",
-                    "Azure AI Infrasturcture",
-                    "Bulid and modernize intelligent apps",
-                    "Knowledge mining",
-                    "Hugging Face on Azure",
-                    "Azure confidential computing"
+                    "AI + machine learning",
+                    "Azure Ai Service",
+                    "Azure AI OpenAI Service",
+                    "Azure AI Language",
+                    "Azure AI Foundry",
+                    "Azure AI Vision",
+                    "Azure AI Search",
+                    "Azure Databricks",
+                    "MIcrosoft Copilot in Azure PREVIEW"
                 ],
                 [
-                    "Appllication development",
-                    "Bulid and modernize intelligent apps",
-                    "Development and testing",
-                    "DevOps",
-                    "DevSecOps",
-                    "Serverless computing",
-                    "Application and Data MOdernization",
-                    "Low-code application development on Azure"
+                    "Compute",
+                    "Azure Virtual Machines",
+                    "Azure Kubernetes Service(AKS)",
+                    "Linux virtual machines in Azure",
+                    "SQL Server on Azure Virtual Machines",
+                    "Windows Server",
+                    "Azrue Functions",
+                    "Azure Virtual Machine Scale Sets",
+                    "Azure SPot Virtual Machines",
+                    "Azure Container Apps",
+                    "Azure Compute Fleet"
                 ],
                 [
-                    "Cloud migration and infrasturcture",
-                    "HYbrid and multicloud solutions",
-                    "Backup and disaster recovery",
-                    "Windows Server on Azure",
-                    "High-performance computing(HPC)",
-                    "Business-critical application",
-                    "Quantum computing",
-                    "5G and Space"
+                    "Containers",
+                    "Azure Kubernetes Services (AKS)",
+                    "Azure App Service",
+                    "Azure Container Instances",
+                    "Azure Spring Apps",
+                    "Azure Red Hat OpenShift",
+                    "Azure Kubernetes Fleet Manager PREVIEW",
+                    "Azure Container Registry",
+                    "App Configuration"
                 ],
                 [
-                    "Resources",
-                    "Refernce architectures",
-                    "Resources for accelerating growth",
-                    "Azure Marketplace",
-                    "Azure Essentails",
-                    "Browse the Microsoft Business Solutions Hub"
+                    "Hybrid + multicloud",
+                    "Azure DevOps",
+                    "AAzure SQL",
+                    "Azure Arc",
+                    "Azure Local",
+                    "Azure Database for PostgresSQL",
+                    "Microsoft Defender for Cloud",
+                    "Azure IoT Edge",
+                    "Azure Montitor",
+                    "Microsoft Sentinel"
+                ],
+                [
+                    "Analytics",
+                    "Azure Synapse Analytics",
+                    "Azure Databricks",
+                    "MIcrosoft Purview",
+                    "Azure Data Factory",
+                    "Azure Machine Learning",
+                    "MIcrosoft Fabric",
+                    "HDInsight",
+                    "Azure Data Explorer",
+                    "Azure Data Lake Storage",
+                    "Azure Operator Insights"
                 ]
-            ],
-            [
-                [
-                    "How to buy",
-                    "Azure pricing",
-                    "Free Azure Services",
-                    "Azure account",
-                    "Flexible purchase options",
-                    "Azure benefits and incentives"
+            
                 ],
                 [
-                    "Pricing tools and Resources",
-                    "Pricing calculator",
-                    "TCO calculator",
-                    "OPtimize your costs",
-                    "FinOps on Azure"
+                    [
+                        "Featured",
+                        "Azure AI",
+                        "Migrate to innovate in the era of AI",
+                        "Bulid and modernize intelligent apps",
+                        "Data Analytics for AI",
+                        "Azure AI Infrastructure",
+                        "Adaptive cloud",
+                        "Azure network security",
+                        "SAP on the Microsoft Cloud"
+                    ],
+                    [
+                        "AI",
+                        "Azure AI",
+                        "Responsible AI with Azure",
+                        "Azure AI Infrasturcture",
+                        "Bulid and modernize intelligent apps",
+                        "Knowledge mining",
+                        "Hugging Face on Azure",
+                        "Azure confidential computing"
+                    ],
+                    [
+                        "Appllication development",
+                        "Bulid and modernize intelligent apps",
+                        "Development and testing",
+                        "DevOps",
+                        "DevSecOps",
+                        "Serverless computing",
+                        "Application and Data MOdernization",
+                        "Low-code application development on Azure"
+                    ],
+                    [
+                        "Cloud migration and infrasturcture",
+                        "HYbrid and multicloud solutions",
+                        "Backup and disaster recovery",
+                        "Windows Server on Azure",
+                        "High-performance computing(HPC)",
+                        "Business-critical application",
+                        "Quantum computing",
+                        "5G and Space"
+                    ],
+                    [
+                        "Resources",
+                        "Refernce architectures",
+                        "Resources for accelerating growth",
+                        "Azure Marketplace",
+                        "Azure Essentails",
+                        "Browse the Microsoft Business Solutions Hub"
+                    ]
+                ],
+                [
+                    [
+                        "How to buy",
+                        "Azure pricing",
+                        "Free Azure Services",
+                        "Azure account",
+                        "Flexible purchase options",
+                        "Azure benefits and incentives"
+                    ],
+                    [
+                        "Pricing tools and Resources",
+                        "Pricing calculator",
+                        "TCO calculator",
+                        "OPtimize your costs",
+                        "FinOps on Azure"
+                    ]
+                ],
+                [
+                    [
+                        "Find a partner",
+                        "Azure Marketpllace",
+                        "FInd a partner"
+                    ],
+                    [
+                        "Become a partner",
+                        "Azure for Partners",
+                        "Azure for ISVS",
+                        "Join ISV Success"
+                    ]
+                ],
+                [
+                    [
+                        "Learning",
+                        "Get started with Azure",
+                        "Traing and certifications",
+                        "Customer stories",
+                        "Analyst reports, white paper, and e-books",
+                        "Videos",
+                        "Learn more about cloud computing"
+                    ],
+                    [
+                        "Techinical Resources",
+                        "Documentation",
+                        "Get the Azure mobile app",
+                        "Developer resources",
+                        "Quickstart templates",
+                        "Resources for startups"
+                    ],
+                    [
+                        "Community",
+                        "Developer community",
+                        "Students",
+                        "Developer stories"
+                    ],
+                    [
+                        "What's new",
+                        "Blog",
+                        "Events and Webinars"
+                    ]
                 ]
-            ],
-            [
-                [
-                    "Find a partner",
-                    "Azure Marketpllace",
-                    "FInd a partner"
-                ],
-                [
-                    "Become a partner",
-                    "Azure for Partners",
-                    "Azure for ISVS",
-                    "Join ISV Success"
-                ]
-            ],
-            [
-                [
-                    "Learning",
-                    "Get started with Azure",
-                    "Traing and certifications",
-                    "Customer stories",
-                    "Analyst reports, white paper, and e-books",
-                    "Videos",
-                    "Learn more about cloud computing"
-                ],
-                [
-                    "Techinical Resources",
-                    "Documentation",
-                    "Get the Azure mobile app",
-                    "Developer resources",
-                    "Quickstart templates",
-                    "Resources for startups"
-                ],
-                [
-                    "Community",
-                    "Developer community",
-                    "Students",
-                    "Developer stories"
-                ],
-                [
-                    "What's new",
-                    "Blog",
-                    "Events and Webinars"
-                ]
-            ]
+            
         ],
         "search":"Search",
         "learn":[
@@ -260,140 +262,572 @@
         ]
 
     },
-    "Solution":{
+    "solution":{
         "blockHead":"Solutions",
         "blockTitle":"Find solutions for putting your idaes into action",
         "tabOverflow":[
             "Featured solutions",
-            "CLoud migration",
+            "Cloud migration",
             "Data transformation",
-            "App development"
+            "App development",
+            "AI"
         ],
         "feature":[
+            [
             {
-               "list":[
-                {
-                    "title":"AI",
-                    "para":"Build intelligent apps at enterprise scale with the Azure AI portfolio",
-                    "link":"Explore Azure AI solutions",
-                    "media":"images/media__slot.avif"
+                "title":"AI",
+                "para":"Build intelligent apps at enterprise scale with the Azure AI portfolio",
+                "link":"Explore Azure AI solutions",
+                "media":"images/media__slot.avif"
 
-                },
-                {
-                    "title":"An adaptive cloud",
-                    "para":"Unify disparate assets with AI-enhanced management and security across cloud and edge envirnoments",
-                    "link":"Learn more",
-                    "media":"images/media__slot1.avif"
-                },
+            },
+            {
+                "title":"An adaptive cloud",
+                "para":"Unify disparate assets with AI-enhanced management and security across cloud and edge envirnoments",
+                "link":"Learn more",
+                "media":"images/media__slot1.avif"
+            },
+            {
+                "title":"Migrate to innovate",
+                "para":"Securely migrate Windows Server,SQL Server and Linux estate to Microsoft Azure",
+                "link":"Learn more",
+                "media":"images/media__slot2.avif"
+            },
+            {
+                "title":"Bulid and modernize intelligent apps",
+                "para":"Build AI-powered,intelligent apps and enhance your critical solutions wit generative AI.",
+                "link":"Learn more",
+                "media":"images/media__slot3.avif"
+            },
+            {
+                "title":"Azure Innovate & Azure Migrate and Modernize",
+                "para":"Accelerate your cloud and AI adoption with comprehensive resources and expert help from Microsoft",
+                "link":"Learn more",
+                "media":"images/media__slot4.avif"
+            }
+            ],
+
+            [
                 {
                     "title":"Migrate to innovate",
-                    "para":"Securely migrate Windows Server,SQL Server and Linux estate to Microsoft Azure",
+                    "para":"Get AI-ready by securely migrating Windows Server, SQL Server and LInux to Azure",
                     "link":"Learn more",
                     "media":"images/media__slot2.avif"
                 },
                 {
+                    "title":"LInux on Azure",
+                    "para":"Run and manage applications your way with your preferred Linux distribution on Azure",
+                    "link":"Learn more about Linux on Azure",
+                    "media":"images/media__slot5.avif"
+                },
+                {
+                    "title":"SAP On the Microsoft Cloud",
+                    "para":"Extent your SAP applications and innovate in the cloud trusted by SAP",
+                    "link":"Explore SAP solutions",
+                    "media":"images/media__slot6.avif"
+                }
+            ],
+            [
+                {
+                    "title":"Data ananlystics for AI",
+                    "para":"Realize value from data and generate near-real-time insights with advanced cloud-scale analytics solutions",
+                    "link":"Explore data analytics for AI",
+                    "media":"images/media__slot7.avif"
+                },
+                {
+                    "title":"Azure managed databases",
+                    "para":"BUild cloud-native applications with fully managed, flexible databases.",
+                    "link":"Explore managed databases",
+                    "media":"images/media__slot8.avif"
+                },
+                {
+                    "title":"Application and data moderinazation",
+                    "para":"Deliver enhanced application and data experiences even faster.",
+                    "link":"Discover app and data modernization",
+                    "media":"images/media__slot9.avif"
+                },
+                {
+                    "title":"Business intelligence",
+                    "para":"Drive faster, more efficient decision making by drawing deeper insights from your analytics",
+                    "link":"Learn more about business intelligence",
+                    "media":"images/media__slot10.avif"
+                }
+            ],
+            [
+                {
                     "title":"Bulid and modernize intelligent apps",
-                    "para":"Build AI-powered,intelligent apps and enhance your critical solutions wit generative AI.",
+                    "para":"Build AI-powered, intelligent apps and enhance your critical solutions with generative AI",
                     "link":"Learn more",
                     "media":"images/media__slot3.avif"
                 },
                 {
-                    "title":"Azure Innovate & Azure Migrate and Modernize",
-                    "para":"Accelerate your cloud and AI adoption with comprehensive resources and expert help from MIcrosoft",
-                    "link":"Learn more",
-                    "media":"images/media__slot4.avif"
+                    "title":"Modern application development",
+                    "para":"Respond to changes faster, optimize costs, and ship confidently",
+                    "link":"Explore development scenarios",
+                    "media":"images/media__slot11.avif"
+                },
+                {
+                    "title":"DevOps",
+                    "para":"Bring together people, processess and products to continuously deliver value to customers and coworkers",
+                    "link":"Explore DevOps solutions",
+                    "media":"images/media__slot12.avif"
                 }
-               ] 
+            ],
+            [
+                {
+                    "title":"AI",
+                    "para":"Build intelligent apps at enterprise scale with the Azure AI portfolio",
+                    "link":"Discover Azure AI solutions",
+                    "media":"images/media__slot.avif"
+                },
+                {
+                    "title":"Azure AI infrastructure",
+                    "para":"Achieve high performance for even your most compute-intensive AI workloads, including deep learning",
+                    "link":"Learn more",
+                    "media":"images/media__slot13.avif"
+                }
+            ]
+    ],
+        "view":"View all solutions (40+)"
+        
+    },
+    "products":{
+        "service":"Products and services",
+        "servicehead":"Explore tools for bringing your vision to life",
+        "servicelist":[
+            "Featured",
+            "AI + machine learning",
+            "Compute",
+            "Containers",
+            "Hybrid + multicloud",
+            "IoT"
+        ],
+        "kubernetes":[
+            [
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure Arc",
+                    "graph":"Unify on-premises, hybrid, and cross-cloud infrasturcture.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure AI Foundry",
+                    "graph":"Build, evaluate and deploy generative AI solutions and custom agents",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure AI Content Understanding",
+                    "graph":"Simplify multimodal AI app development and automate commplex data extraction.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure OPenAI Service",
+                    "graph":"BUild your own agents and generaative AI apps",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure AI Content Understanding",
+                    "graph":"Simplify multimodal AI app development and automate commplex data extraction.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure OPenAI Service",
+                    "graph":"BUild your own agents and generaative AI apps",
+                    "link":"Explore the product"
+                }
+            ],
+            [
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure AI Content Understanding",
+                    "graph":"Simplify multimodal AI app development and automate commplex data extraction.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure OPenAI Service",
+                    "graph":"BUild your own agents and generaative AI apps",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure Arc",
+                    "graph":"Unify on-premises, hybrid, and cross-cloud infrasturcture.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure AI Foundry",
+                    "graph":"Build, evaluate and deploy generative AI solutions and custom agents",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure AI Content Understanding",
+                    "graph":"Simplify multimodal AI app development and automate commplex data extraction.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure AI Content Understanding",
+                    "graph":"Simplify multimodal AI app development and automate commplex data extraction.",
+                    "link":"Explore the product"
+                }
+            ],
+            [
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure Arc",
+                    "graph":"Unify on-premises, hybrid, and cross-cloud infrasturcture.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure AI Foundry",
+                    "graph":"Build, evaluate and deploy generative AI solutions and custom agents",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure AI Content Understanding",
+                    "graph":"Simplify multimodal AI app development and automate commplex data extraction.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure OPenAI Service",
+                    "graph":"BUild your own agents and generaative AI apps",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure AI Content Understanding",
+                    "graph":"Simplify multimodal AI app development and automate commplex data extraction.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure OPenAI Service",
+                    "graph":"BUild your own agents and generaative AI apps",
+                    "link":"Explore the product"
+                }
+            ],
+            [
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure AI Content Understanding",
+                    "graph":"Simplify multimodal AI app development and automate commplex data extraction.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure OPenAI Service",
+                    "graph":"BUild your own agents and generaative AI apps",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure Arc",
+                    "graph":"Unify on-premises, hybrid, and cross-cloud infrasturcture.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure AI Foundry",
+                    "graph":"Build, evaluate and deploy generative AI solutions and custom agents",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure AI Content Understanding",
+                    "graph":"Simplify multimodal AI app development and automate commplex data extraction.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure AI Content Understanding",
+                    "graph":"Simplify multimodal AI app development and automate commplex data extraction.",
+                    "link":"Explore the product"
+                }
+            ],
+            [
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure Arc",
+                    "graph":"Unify on-premises, hybrid, and cross-cloud infrasturcture.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure AI Foundry",
+                    "graph":"Build, evaluate and deploy generative AI solutions and custom agents",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure AI Content Understanding",
+                    "graph":"Simplify multimodal AI app development and automate commplex data extraction.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure OPenAI Service",
+                    "graph":"BUild your own agents and generaative AI apps",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure AI Content Understanding",
+                    "graph":"Simplify multimodal AI app development and automate commplex data extraction.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure OPenAI Service",
+                    "graph":"BUild your own agents and generaative AI apps",
+                    "link":"Explore the product"
+                }
+            ],
+            [
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure AI Content Understanding",
+                    "graph":"Simplify multimodal AI app development and automate commplex data extraction.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure OPenAI Service",
+                    "graph":"BUild your own agents and generaative AI apps",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure Arc",
+                    "graph":"Unify on-premises, hybrid, and cross-cloud infrasturcture.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure AI Foundry",
+                    "graph":"Build, evaluate and deploy generative AI solutions and custom agents",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge.svg",
+                    "head":"Azure AI Content Understanding",
+                    "graph":"Simplify multimodal AI app development and automate commplex data extraction.",
+                    "link":"Explore the product"
+                },
+                {
+                    "logo":"images/badge1.svg",
+                    "head":"Azure AI Content Understanding",
+                    "graph":"Simplify multimodal AI app development and automate commplex data extraction.",
+                    "link":"Explore the product"
+                }
+            ]
+        ],
+        "longPicture":[
+            {
+                "image":"images/service.avif",
+                "heading":"Windows Server on Azure",
+                "para":"Run business-critical workloads with hybrid cloud agility and advanced security",
+                "btn":"Explore the product"
             },
             {
-                "list":[
-                    {
-                        "title":"Migrate to innovate",
-                        "para":"Get AI-ready by securely migrating Windows Server, SQL Server and LInux to Azure",
-                        "link":"Learn more",
-                        "media":"images/media__slot2.avif"
-                    },{
-                        "title":"LInux on Azure",
-                        "para":"Run and manage applications your way with your preferred Linux distribution on Azure",
-                        "link":"Learn more about Linux on Azure",
-                        "media":"images/media__slot5.avif"
-                    },
-                    {
-                        "title":"SAP On the Microsoft Cloud",
-                        "para":"Extent your SAP applications and innovate in the cloud trusted by SAP",
-                        "link":"Explore SAP solutions",
-                        "media":"images/media__slot6.avif"
-                    }
-                ]
+                "image":"images/service1.avif",
+                "heading":"Azure AI Foundry",
+                "para":"Build,evaluate,and deploy generative AI solutionns and custom agents",
+                "btn":"Explore the product"
             },
             {
-                "list":[
-                    {
-                        "title":"Data ananlystics for AI",
-                        "para":"Realize value from data and generate near-real-time insights with advanced cloud-scale analytics solutions",
-                        "link":"Explore data analytics for AI",
-                        "media":"images/media__slot7.avif"
-                    },
-                    {
-                        "title":"Azure managed databases",
-                        "para":"BUild cloud-native applications with fully managed, flexible databases.",
-                        "link":"Explore managed databases",
-                        "media":"images/media__slot8.avif"
-                    },
-                    {
-                        "title":"Application and data moderinazation",
-                        "para":"Deliver enhanced application and data experiences even faster.",
-                        "link":"Discover app and data modernization",
-                        "media":"images/media__slot9.avif"
-                    },
-                    {
-                        "title":"Business intelligence",
-                        "para":"Drive faster, more efficient decision making by drawing deeper insights from your analytics",
-                        "link":"Learn more about business intelligence",
-                        "media":"images/media__slot10.avif"
-                    }
-                ]
+                "image":"images/service2.avif",
+                "heading":"Azure Virtual Machines",
+                "para":"Deploy VMs in seconds",
+                "btn":"Explore the product"
             },
             {
-                "list":[
-                    {
-                        "title":"Bulid and modernize intelligent apps",
-                        "para":"Build AI-powered, intelligent apps and enhance your critical solutions with generative AI",
-                        "link":"Learn more",
-                        "media":"images/media__slot3.avif"
-                    },
-                    {
-                        "title":"Modern application development",
-                        "para":"Respond to changes faster, optimize costs, and ship confidently",
-                        "link":"Explore development scenarios",
-                        "media":"images/media__slot11.avif"
-                    },
-                    {
-                        "title":"DevOps",
-                        "para":"Bring together people, processess and products to continuously deliver value to customers and coworkers",
-                        "link":"Explore DevOps solutions",
-                        "media":"images/media__slot12.avif"
-                    }
-                ]
+                "image":"images/service.avif",
+                "heading":"Windows Server on Azure",
+                "para":"Run business-critical workloads with hybrid cloud agility and advanced security",
+                "btn":"Explore the product"
             },
             {
-                "list":[
-                    {
-                        "title":"AI",
-                        "para":"Build intelligent apps at enterprise scale with the Azure AI portfolio",
-                        "link":"Discover Azure AI solutions",
-                        "media":"images/media__slot.avif"
-                    },
-                    {
-                        "title":"Azure AI infrastructure",
-                        "para":"Achieve high performance for even your most compute-intensive AI workloads, including deep learning",
-                        "link":"Learn more",
-                        "media":"images/media__slot13.avif"
-                    }
-                ]
+                "image":"images/service1.avif",
+                "heading":"Azure AI Foundry",
+                "para":"Build,evaluate,and deploy generative AI solutionns and custom agents",
+                "btn":"Explore the product"
+            },
+            {
+                "image":"images/service2.avif",
+                "heading":"Azure Virtual Machines",
+                "para":"Deploy VMs in seconds",
+                "btn":"Explore the product"
+            }
+        ],
+        "aLink":"See all products (200+)"
+    },
+    "gartner":{
+        "backgroundImage":"images/background.avif",
+        "gartnerImage":"images/3ndimage.avif",
+        "dBlockHead":"See why Microsoft was named a Leader by Gartner®",
+        "para":"Discover why Microsoft was named a Leader and positioned furthest to the right for Completeness of Vision in the 2024 Magic Quadrant™ for Strategic Cloud Platform Services (SCPS).",
+        "btn":"Read the blog"
+    },
+    "transform":{
+        "resorceHead":"Resources by role",
+        "mainHead":"Transform the way you work",
+        "backgroundimage":"images/background.avif",
+        "professional":[
+            "IT professionals",
+            "Developers",
+            "Data analyts",
+            "Business leaders",
+            "Startups",
+            "Students"
+        ],
+        "listprofessionals":[
+            {
+                "head":"Optimize your infrastructure with popular Azure solutions and services.",
+                "btn":"Explore migration solutions",
+                "media":"images/migration.avif"
+            },
+            {
+                "head":"Create today's solutions and tomorrow's breakthoughs",
+                "btn":"Innovate on Azure",
+                "media":"images/migration1.avif"
+            },
+            {
+                "head":"Get more value from your data with an end-to-end cloud analytics solution.",
+                "btn":"Explore data analytics for AI",
+                "media":"images/migration2.avif"
+            },
+            {
+                "head":"Get guidance and insights on AI innovation,intelligent data, cloud infrastructure, and optimization.",
+                "btn":"Expllore insights",
+                "media":"images/migration.avif"
+            },
+            {
+                "head":"Future-proof your startup with AI services, expert guidance and essential technology.",
+                "btn":"Explore Microsoft for Startups",
+                "media":"images/migration1.avif"
+            },
+            {
+                "head":"Learn about programming, cloud technologies and developer tools.",
+                "btn":"Jump-start your career",
+                "media":"images/migration2.avif"
             }
         ]
-        
+    },
+    "global":{
+        "image":"images/background2.avif",
+        "head":"Azure global infrastructure",
+        "para":"Go beyond the limits of on-premises datacenters with more regions than any other provider",
+        "btn":"Explore the globe"
+    },
+    "customer":{
+        "subhead":"Customer stories",
+        "head":"See how customers are innovating with Azure",
+        "btn":"View all stories",
+        "image":"images/background.avif",
+        "customerlist":[
+            "images/hp.avif",
+            "images/hp1.avif",
+            "images/hp2.avif",
+            "images/hp3.avif",
+            "images/hp4.avif"
+        ],
+        "movelist":[
+            {
+                "media":"images/hp.avif",
+                "head":"HP incorporated GitHub Copilot into its workflow to help developers collaborate more easily and work more productively.",
+                "products":"Products",
+                "btn":"Case study",
+                "image":"images/hpd.avif"
+            },
+            {
+                "media":"images/hp1.avif",
+                "head":"Unity made game development more accessible to all by using Azure OpenAI Service to create an AI assistent that helps creators throughout thier development workflows.",
+                "btn":"Case study",
+                "image":"images/hpd1.avif"
+            },
+            {
+                "media":"images/hp2.avif",
+                "head":"LEGO House takes the physical brick to new frontiers with inventive, interactive digital experiences built with Azure solutions.",
+                "products":"Products",
+                "btn":"Case study",
+                "image":"images/hpd2.avif"
+            },
+            {
+                "media":"images/hp3.avif",
+                "head":"Siemens connects frontline workers and engineers for real-time problem-solving using Azure AI Foundry..",
+                "products":"Products",
+                "btn":"Case study",
+                "image":"images/hpd3.avif"
+            },
+            {
+                "media":"images/hp4.avif",
+                "head":"HEINEKEN Built chatbots that connect employees with information across the company using Azure OpenAI Service and its built-in ChatGPT capabilities.",
+                "products":"Products",
+                "btn":"Case study",
+                "image":"images/hpd4.avif"
+            }
+        ],
+        "github":[
+            {
+                "image":"images/head.svg",
+                "git":"GitHUb Copilot"
+            },
+            {
+                "image":"images/head.svg",
+                "git":"Azure DevOps"
+            }
+        ]
+    },
+    "nextstep":{
+        "image":"images/background.avif",
+        "head":"Take the next step",
+        "threecard":[
+            {
+                "head":"Choose the Azure account that's right for you",
+                "para":"Pay as you go or try Azure for free for up to 30 days.",
+                "btn":"Get started with Azure"
+            },
+            {
+                "head":"Connect with a sales specialist",
+                "para":"Chat with or call a sales specialist for personalized guidance",
+                "btn":"Get in Touch"
+            },
+            {
+                "head":"New to Azure? Learn at your own pace",
+                "para":"Learn cloud computing basics with self-paced modules on microsoft Learn",
+                "btn":"Get started"
+            }
+        ]
+    },
+    "mobileapp":{
+        "logo":"images/a.svg",
+        "logospan":"Get the Azure mobile app",
+        "social":[
+            "images/x.webp",
+            "images/x1.webp",
+            "images/x2.webp",
+            "images/x3.avif"
+        ]
     }
 
 }
+
+
+
+
+
+
+
+
+
